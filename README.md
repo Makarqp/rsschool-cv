@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Makarqp.github.io/rsschool-cv/cv
