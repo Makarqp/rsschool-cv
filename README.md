@@ -1,1 +1,1 @@
-https://Makarqp.github.io/rsschool-cv/
+https://github.com/Makarqp/rsschool-cv/blob/main/cv.md
