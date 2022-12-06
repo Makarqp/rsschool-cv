@@ -1,5 +1,4 @@
 # Cv of a novice programmer
-[My photo](https://imgur.com/a/6nUoUJK)
 ### First Name Last Name 
 Makar Pogrobenko
 
